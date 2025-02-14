@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.3
+fake-useragent==1.4.0
+lxml==5.1.0
+numpy==1.26.3
+pandas==2.2.0
+requests==2.32.0
+apache-airflow~=2.10.4
+python-dotenv~=1.0.1
+psycopg2-binary
+bs4~=0.0.2
