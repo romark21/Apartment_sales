@@ -1,6 +1,8 @@
 Apartment Sales Data Pipeline
 
-This project is an ETL pipeline for collecting, processing, and storing real estate listings from ss.com. It uses Airflow for automation, PostgreSQL for data storage, and Docker for containerization.
+This project is an ETL pipeline for collecting, processing, and storing real estate listings from ss.com. 
+
+It uses Airflow for automation, PostgreSQL for data storage, and Docker for containerization.
 
 Features:
 ✅ Web scraping of apartment listings using BeautifulSoup and requests
